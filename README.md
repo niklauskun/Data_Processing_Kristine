@@ -1,4 +1,4 @@
-# Data_Processing_Kristine
+# Data_Processing_qPCR_Prism
 
 Data processing for qPCR.
 
